@@ -1,0 +1,6 @@
+RENCANA KONTEN RENDI
+
+- Javascript
+- PHP Framework
+- Interview
+- Vlogs
